@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "joke": "node joke.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nielsvancaenegem/package-manager.git"
+  },
+  "author": "niels vc",
+  "dependencies": {
+    "awesome-dev-jokes": "^1.0.3"
+  }
+}
